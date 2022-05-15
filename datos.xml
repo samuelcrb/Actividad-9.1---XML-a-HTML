@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estructura.xsl" type="text/xsl"?>
+
+<blog>
+    <tituloP>Blog de peliculas</tituloP>
+    <encabezado>El Cinéfilo</encabezado>
+    <titulo1> Bienvenidos al blog de los cinéfilos </titulo1>
+    <descripcion> Estas son las 6 películas mas vistas por los españoles </descripcion>
+    <titulo2> Top 6 peliculas más vistas en España: </titulo2>
+    <peliculas>
+        <pelicula>
+            <nombre>AVATAR</nombre>
+            <director>Director: James Cameron</director>
+            <año>Año: 2009</año>
+            <sinopsis>Jake Sully y Ney'tiri han formado una familia y hacen todo lo posible por permanecer juntos. Sin embargo, deben abandonar su hogar y explorar las regiones de Pandora cuando una antigua amenaza reaparece.</sinopsis>
+            <generos>
+                <genero>Ciencia ficción</genero>
+                <genero>Aventura</genero>
+            </generos>
+            <reparto>
+                <principales>
+                    <actor>Sam Worthington</actor>
+                    <actor>Zoe Saldana</actor>
+                </principales>
+                <secundarios>
+                    <actor>Sigourney Weaver</actor>
+                    <actor>Michelle Rodriguez</actor>
+                    <actor>Wes Study</actor>
+                </secundarios>
+            </reparto>
+        </pelicula>
+
+        <pelicula>
+            <nombre>OCHO APELLIDOS VASCOS</nombre>
+            <director>Director: Emilio Martínez-Lázaro</director>
+            <año>Año: 2014</año>
+            <sinopsis>Rafa, un señorito andaluz que nunca ha salido de Sevilla, decide dejarlo todo para conquistar a Amaia, una chica vasca. Se muda al País Vasco y allí tendrá que adaptarse a un nuevo entorno y hacerse pasar por vasco para ganarse la aprobación del padre de Amaia.</sinopsis>
+            <generos>
+                <genero>Comedia</genero>
+                <genero>Romance</genero>
+            </generos>
+            <reparto>
+                <principales>
+                    <actor>Clara Lago</actor>
+                    <actor>Dani Rovira</actor>
+                </principales>
+                <secundarios>
+                    <actor>Carmen Machi</actor>
+                    <actor>Karra Elejalde</actor>
+                </secundarios>
+            </reparto>
+        </pelicula>
+
+        <pelicula>
+            <nombre> LO IMPOSIBLE </nombre>
+            <director>Director: Juan Antonio Bayona</director>
+            <año>Año: 2012</año>
+            <sinopsis>María solo tiene tiempo de gritar antes de ser engullida y arrastrada por la terrible ola. Sin tiempo para asimilar lo incomprensible e inesperado del desastre natural que acaban de sufrir, deberán luchar por la supervivencia y por volver a reencontrarse.</sinopsis>
+            <generos>
+                <genero>Catastrofe</genero>
+                <genero>Drama</genero>
+            </generos>
+            <reparto>
+                <principales>
+                    <actor>Naomi Watts</actor>
+                    <actor>Ewan Mcgregor</actor>
+                </principales>
+                <secundarios>
+                    <actor>Tom Holland</actor>
+                    <actor>Geraldine Chaplin</actor>
+                </secundarios>
+            </reparto>
+        </pelicula>
+
+        <pelicula>
+            <nombre> TITANIC </nombre>
+            <director>Director: James Cameron</director>
+            <año>Año: 1997</año>
+            <sinopsis>Jack, un joven artista, en una partida de cartas gana un pasaje para América, en el Titanic, el trasatlántico más grande y seguro jamás construido. A bordo, conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero Cal y la madre de Rose ponen todo tipo de trabas a su relación. Inesperadamente, un inmenso iceberg pone en peligro la vida de los pasajeros.</sinopsis>
+            <generos>
+                <genero>Romance</genero>
+                <genero>Catástrofe</genero>
+                <genero>Drama</genero>
+            </generos>
+            <reparto>
+                <principales>
+                    <actor>Leonardo DiCaprio</actor>
+                    <actor>Kate Winslet</actor>
+                </principales>
+                <secundarios>
+                    <actor>Bill Paxton</actor>
+                    <actor>Billy Zane</actor>
+                </secundarios>
+            </reparto>
+        </pelicula>
+
+        <pelicula>
+            <nombre> EL REY LEON </nombre>
+            <director>Director: Rob Minkoff</director>
+            <año>Año: 1994</año>
+            <sinopsis>Tras el asesinato de su padre, Simba, un joven león es apartado su reino y tendrá que descubrir con ayuda de amigos de la sabana africana el significado de la responsabilidad y la valentía. Más tarde volverá para recuperar el control de su reino.
+            </sinopsis>
+            <generos>
+                <genero>Musical</genero>
+                <genero>Animación</genero>
+                <genero>Drama</genero>
+            </generos>
+            <reparto>
+                <principales>
+                    <actor>Matthew Broderick</actor>
+                    <actor>James Earl Jones</actor>
+                </principales>
+                <secundarios>
+                    <actor>Jeremy Irons</actor>
+                    <actor>Moira Kelly</actor>
+                </secundarios>
+            </reparto>
+        </pelicula>
+
+        <pelicula>
+            <nombre> OCHO APELLIDOS CATALANES </nombre>
+            <director>Director: Emilio Martínez-Lázaro</director>
+            <año>Año: 2015</año>
+            <sinopsis>En la secuela de "Ocho apellidos vascos", Amaia se ha separado de Rafa y se ha enamorado de un catalán. Las alarmas de Koldo se encienden al enterarse de esto, dado que ya se había hecho a la idea de que su hija saliera con un andaluz. Koldo decide entonces aventurarse por primera vez fuera de las fronteras de Euskadi para convencer a Rafa de que lo acompañe a Cataluña para rescatar a Amaia de los brazos del joven.</sinopsis>
+            <generos>
+                <genero>Comedia</genero>
+                <genero>Romance</genero>
+            </generos>
+            <reparto>
+                <principales>
+                    <actor>Clara Lago</actor>
+                    <actor>Dani Rovira</actor>
+                </principales>
+                <secundarios>
+                    <actor>Carmen Machi</actor>
+                    <actor>Karra Elejalde</actor>
+                </secundarios>
+            </reparto>
+        </pelicula>
+    </peliculas>
+
+</blog>
